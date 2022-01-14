@@ -6,7 +6,6 @@
   <div class="stack">
   <a href="#"><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>
   <br />
